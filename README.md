@@ -1,6 +1,6 @@
 # wxWidgets examples
 
-Shows how to use [wxWidgets](https://www.wxwidgets.org) controls only by programming code ([c++17](https://en.cppreference.com/w/)).
+A large collection of wxWidgets](https://www.wxwidgets.org) examples in modern [C++17](https://en.cppreference.com/w/).
 
 [![wxwidgets](docs/Pictures/wxwidgets_header.png)](https://www.wxwidgets.org/)
 
